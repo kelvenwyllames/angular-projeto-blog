@@ -7,15 +7,15 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class SmallCardComponent implements OnInit {
   @Input()
-  smallPhotoCover: string =
-    'https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg';
+  smallPhotoCover: string = '';
 
   @Input()
-  smallDateCard: string = '15 de Outubro, 2023';
+  smallDateCard: string = '';
 
   @Input()
-  smallCardTitle: string =
-    'Beberapa cara menggunakan bold typography pada design website';
+  smallCardTitle: string = '';
+  @Input()
+  Id: string = '0';
   constructor() {}
 
   ngOnInit(): void {}

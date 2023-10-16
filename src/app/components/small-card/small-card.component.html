@@ -1,14 +1,16 @@
 <div class="container-small-card">
-  <div class="small-card-photo">
-    <img src="{{ smallPhotoCover }}" alt="" width="203px" />
-  </div>
-  <div class="small-card-date-title">
-    <div class="date">
-      <span>{{ smallDateCard }}</span>
+  <a [routerLink]="['content', Id]">
+    <div class="small-card-photo">
+      <img src="{{ smallPhotoCover }}" alt="" width="203px" />
     </div>
-    <div class="small-card-title">
-      <h1>{{ smallCardTitle }}</h1>
+    <div class="small-card-date-title">
+      <div class="date">
+        <span>{{ smallDateCard }}</span>
+      </div>
+      <div class="small-card-title">
+        <h1>{{ smallCardTitle }}</h1>
+      </div>
     </div>
-  </div>
+  </a>
   <hr />
 </div>
