@@ -1,0 +1,45 @@
+.container-big-card {
+  width: 34.063rem;
+  height: 38rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.container-big-card > a {
+  text-decoration: none;
+}
+
+.big-card-photo {
+  margin-top: 0.3rem;
+}
+
+.big-card-photo > img {
+  transition: 0.5s all ease-in-out;
+}
+
+.big-card-photo:hover > img {
+  transform: scale(1.05);
+}
+
+.date {
+  padding-left: 1.4rem;
+  margin-top: 0.5rem;
+  opacity: 0.3;
+  font-size: 0.688rem;
+  text-align: left;
+}
+
+.big-card-title {
+  padding-left: 1.4rem;
+  margin-top: 0.3rem;
+  text-align: left;
+  font-size: 1.75;
+}
+
+.big-card-descricao {
+  padding: 0.5rem 1.2rem 1.4rem 1.4rem;
+  margin-top: 0.3rem;
+  text-align: justify;
+  font-size: 1rem;
+}

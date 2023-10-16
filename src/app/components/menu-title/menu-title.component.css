@@ -1,0 +1,14 @@
+.menu-title-container {
+  color: white;
+}
+
+.menu-title-container > hr {
+  opacity: 0.1;
+}
+
+.menu-title-container > h1 {
+  padding: 1rem;
+  text-align: center;
+  font-size: 9rem;
+  font-weight: 800;
+}
