@@ -14,18 +14,18 @@ Para executar o projeto localmente, siga estas etapas:
 
 Certifique-se de ter o Node.js instalado. Você pode baixá-lo em https://nodejs.org/.
 
-# Clone este repositório para o seu ambiente local:
+### Clone este repositório para o seu ambiente local:
 git clone https://github.com/kelvenwyllames/angular-projeto-blog.git
 
-# Navegue até o diretório do projeto:
+### Navegue até o diretório do projeto:
 cd angular-projeto-blog
 Instale as dependências usando o npm:
 
-# Instale as dependências usando o npm:
+### Instale as dependências usando o npm:
 npm install
 Inicie a aplicação:
 
-# Inicie a aplicação:
+## Inicie a aplicação:
 ng serve
 Acesse a aplicação em seu navegador em http://localhost:4200/.
 
