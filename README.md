@@ -31,3 +31,13 @@ ng serve ``Acesse a aplicação em seu navegador em http://localhost:4200/.``
 
 ## Contribuições
 Se você deseja contribuir para este projeto, fique à vontade para criar uma "Pull Request" ou abrir uma "Issue" no GitHub.
+
+### 🛠 **Tecnologias e Ferramentas:**
+
+<div align="left">
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
