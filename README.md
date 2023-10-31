@@ -1,7 +1,7 @@
 ## Angular Projeto Blog
 Este é um projeto Angular que implementa um blog simples. Ele fornece uma estrutura básica para criar e gerenciar postagens de blog. Se você deseja criar seu próprio blog ou aprender mais sobre o desenvolvimento web com Angular, este projeto pode ser um bom ponto de partida.
 
-##Visão Geral
+## Visão Geral
 Este projeto é uma aplicação web desenvolvida com Angular e TypeScript para a interface do usuário. Ele inclui recursos básicos para gerenciamento de postagens de blog, como:
 
 Adicionar, editar e excluir postagens.
@@ -10,23 +10,20 @@ Visualizar detalhes de uma postagem individual.
 Implementação de rotas para navegação entre páginas.
 
 ## Instalação
-Para executar o projeto localmente, siga estas etapas:
-
-Certifique-se de ter o Node.js instalado. Você pode baixá-lo em https://nodejs.org/.
+1. Para executar o projeto localmente, siga estas etapas:
+2. Certifique-se de ter o Node.js instalado. Você pode baixá-lo em https://nodejs.org/.
 
 ### Clone este repositório para o seu ambiente local:
-git clone https://github.com/kelvenwyllames/angular-projeto-blog.git
+git clone ``https://github.com/kelvenwyllames/angular-projeto-blog.git``
 
 ### Navegue até o diretório do projeto:
 cd angular-projeto-blog
-Instale as dependências usando o npm:
 
 ### Instale as dependências usando o npm:
 npm install
-Inicie a aplicação:
 
-## Inicie a aplicação:
-ng serve
-Acesse a aplicação em seu navegador em http://localhost:4200/.
+### Inicie a aplicação:
+ng serve ``Acesse a aplicação em seu navegador em http://localhost:4200/.``
 
-
+## Contribuições
+Se você deseja contribuir para este projeto, fique à vontade para criar uma "Pull Request" ou abrir uma "Issue" no GitHub.
